@@ -1,0 +1,2 @@
+# Beyond-League-Tables-A-K-Means-Analysis-of-22-London-HEIs
+This project uses unsupervised machine learning (k-means clustering) to categorize 22 universities in London into four distinct groups based on the value they offer. Instead of categorizing HEIs in an ordinal list similar to traditional ranking tables, this project utilizes a custom "course value index" to group universities by their strengths.
